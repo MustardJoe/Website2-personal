@@ -1,0 +1,40 @@
+
+body {
+    background-color: rgb(0, 51, 23);
+    color: #85EF47;
+    display: flex;
+    justify-content: center;
+    max-width: 900px;
+}
+
+main {
+    color: #85EF47;
+    background-color: #00BD56;
+}
+
+.header {
+    background-color: #F9FD50;
+    color: #00BD56;
+    padding: 12px;
+    width: 800px;
+    border-bottom-left-radius: 2em;
+    border-top-right-radius: 2em;
+
+}
+
+.body-comp {
+    margin: 50px;
+    width: 700px;
+}
+
+.footer {
+    background-color: #207DFF;
+    color: #00BD56;
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+    width: 800px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
