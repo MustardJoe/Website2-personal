@@ -8,7 +8,8 @@ function randMsgHead() {
         'Here`s Jonny!',
         'The internet stops here',
         'Let`s use our powers for good',
-        'You should hire me!'
+        'You should hire me!',
+        'Who ate all the bacon?'
     ];
     // const randnumb = randMsgHead();
     // const randnumb = randMsgHead();

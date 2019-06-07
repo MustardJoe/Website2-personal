@@ -4,6 +4,7 @@ color codes:
 #00BD56 medium green
 #85EF47 lighter green
 #F9FD50 yellow
+#207DFF the blue thats not dodger blue
 
 possible accents:
 rgb(0, 51, 23)
