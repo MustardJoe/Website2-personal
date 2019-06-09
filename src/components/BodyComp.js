@@ -1,5 +1,4 @@
 import Component from './Component.js';
-import Bio from './Bio.js';
 import NavBar from './NavBar.js';
 
 class BodyComp extends Component {    
@@ -8,9 +7,6 @@ class BodyComp extends Component {
 
         const navBar = new NavBar();
         dom.prepend(navBar.render());
-
-        const bio = new Bio();
-        dom.appendChild(bio.render());
 
         return dom;
     }
