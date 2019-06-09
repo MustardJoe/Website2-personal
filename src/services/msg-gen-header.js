@@ -1,15 +1,24 @@
 function randMsgHead() {
-    const selectNumbDec = Math.random() * 8;
+    const selectNumbDec = Math.random() * 15;
     const wholeRandNumb = Math.floor(selectNumbDec);
     
     const headerMsgs = [
         'Welcome to my Page',
         'I hope you find this site usefull',
         `Here's Jonny!`,
+        `Have a Great Day!`,
         'The internet stops here',
-        `Let's use our powers for good`,
-        'You should hire me!',
-        'Who ate all the bacon?'
+        `Let's use our powers for good!`,
+        `Great Job!`,
+        'You should consider hiring me!',
+        'Who ate all the bacon?',
+        `I recently took up yoga!`,
+        `Meditation is great for you!`,
+        `=== fun; True!`,
+        `You've reached Level 99!`,
+        `I've like gardening!`,
+        `I like the rain!`,
+        `You've reached level 999`
     ];
     // const randnumb = randMsgHead();
     // const randnumb = randMsgHead();
