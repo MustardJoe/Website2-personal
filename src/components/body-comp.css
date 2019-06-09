@@ -9,10 +9,24 @@ li {
     display: inline;
 }
 
+.nav-bar a:hover {
+    background-color: #207DFF;
+    border-radius: 8px;
+
+}
+
 .hidden {
     display: none;
 }
 
 a {
     text-decoration: none;
+}
+
+.home-comp div {
+    margin-bottom: 20px;
+}
+
+.bio-comp div {
+    margin-bottom: 20px;
 }

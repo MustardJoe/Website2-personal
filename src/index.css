@@ -3,6 +3,7 @@
 body {
     font-family: 'Nunito', sans-serif;
     background-color: rgb(0, 51, 23);
+    background-color: #551A8B;
     color: #85EF47;
     display: flex;
     justify-content: center;
@@ -23,7 +24,11 @@ main {
     width: 800px;
     border-bottom-left-radius: 2em;
     border-top-right-radius: 2em;
+}
 
+.header a {
+    text-decoration: none;
+    color: #00BD56;
 }
 
 .body-comp {
@@ -39,7 +44,7 @@ main {
     position: absolute;
     bottom: 0;
     height: 60px;
-    width: 800px;
+    width: 825px;
     padding-top: 30px;
     display: flex;
     justify-content: center;
