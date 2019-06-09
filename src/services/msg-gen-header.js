@@ -1,13 +1,13 @@
 function randMsgHead() {
-    const selectNumbDec = Math.random() * 6;
+    const selectNumbDec = Math.random() * 8;
     const wholeRandNumb = Math.floor(selectNumbDec);
     
     const headerMsgs = [
         'Welcome to my Page',
         'I hope you find this site usefull',
-        'Here`s Jonny!',
+        `Here's Jonny!`,
         'The internet stops here',
-        'Let`s use our powers for good',
+        `Let's use our powers for good`,
         'You should hire me!',
         'Who ate all the bacon?'
     ];
