@@ -1,24 +1,48 @@
 import Component from './Component.js';
 import Bio from './Bio.js';
+import Home from './Home.js';
+import Projects from './Projects.js';
 
 class NavBar extends Component {
     render() {
         const dom = this.renderDOM();
         const bio1 = dom.getElementsByClassName('bio1');
-        const test = dom.getElementsByClassName('test1');  //.querySelector('test1');
 
         const bio = new Bio();
         const bioDOM = bio.render();
         dom.appendChild(bioDOM);
 
+        const home = new Home();
+        const homeDOM = home.render();
+        dom.appendChild(homeDOM);
+
+        const projects = new Projects();
+        const projectsDOM = projects.render();
+        dom.appendChild(projectsDOM);
+
         bio1[0].addEventListener('click', (event) => {
             event.preventDefault();
             console.log('happy day!');
-            test[0].classList.add('hidden');
+            homeDOM.classList.remove('hidden');
+            bioDOM.classList.add('hidden');
+            projectsDOM.classList.add('hidden');
+
+        });
+
+        bio1[1].addEventListener('click', (event) => {
+            event.preventDefault();
             bioDOM.classList.remove('hidden');
+            homeDOM.classList.add('hidden');
+            projectsDOM.classList.add('hidden');
 
+        });
 
-               
+        bio1[2].addEventListener('click', (event) => {
+            event.preventDefault();
+            projectsDOM.classList.remove('hidden');
+            bioDOM.classList.add('hidden');
+            homeDOM.classList.add('hidden');
+
         });
 
         return dom;
@@ -28,13 +52,18 @@ class NavBar extends Component {
             <div class="nav-bar">
                 <ul>
                     <li>
-                        <a href="./">Home</a>
+                        <a class="bio1" href="./">Home</a>
                     </li> 
                     <li>
                         <a class="bio1" href="./">Bio</a>
                     </li>
+                    <li>
+                        <a class="bio1" href="./">Projects</a>
+                    </li>
+                    <li>
+                        <a class="bio1" href="./">Links/Refs</a>
+                    </li>
                 </ul>
-                <div class="test1">secret mesg</div>
             </div>
     `;
     }
