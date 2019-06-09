@@ -13,7 +13,7 @@ class Header extends Component {
         
         return /*html*/`
             <header class="header">
-                <h1>Hi! I'm Jon Forney. ${topMsg}</h1>
+                <a href="./"><h1>Hi! I'm Jon Forney. ${topMsg}</h1></a>
             </header>
     `;
     }
