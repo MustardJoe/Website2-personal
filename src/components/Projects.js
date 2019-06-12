@@ -5,7 +5,8 @@ class Projects extends Component {
         return /*html*/`
         <section class="hidden">
             <div>
-                Check out my GitHub to see my projects.
+                Check out my <a href="https://github.com/MustardJoe">GitHub</a> 
+                to see my projects.
             </div>        
         </section>
     `;
