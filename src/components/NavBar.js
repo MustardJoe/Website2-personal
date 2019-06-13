@@ -22,7 +22,6 @@ class NavBar extends Component {
 
         bio1[0].addEventListener('click', (event) => {
             event.preventDefault();
-            console.log('happy day!');
             homeDOM.classList.remove('hidden');
             bioDOM.classList.add('hidden');
             projectsDOM.classList.add('hidden');
