@@ -9,7 +9,7 @@ class Home extends Component {
                 software devoloper (he/him pronouns) who lives in Portland, Or.
             </div>
             <div>
-                I love playing music, and I play several instruments. My 2nd favorite
+                I love playing music, and I play several instruments. My 3rd favorite
                 movie is the original 1954 Godzilla.
             </div>
             <div>
