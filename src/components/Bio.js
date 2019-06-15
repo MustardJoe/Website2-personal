@@ -15,7 +15,7 @@ class Bio extends Component {
             </div>
             <div>
                 Professionaly, I've been working with technology
-                for a while now, most recently in a hosptial as a BMET (medecal 
+                for a while now, most recently in a hosptial as a BMET (medical 
                 equipment technician) conducting serviceing and repair of all types
                 of medical devices.   
             </div>
