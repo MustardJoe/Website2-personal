@@ -13,10 +13,10 @@ function randMsgHead() {
         'You should consider hiring me!',
         'Who ate all the bacon?',
         `I recently took up yoga!`,
-        `Meditation is great for you!`,
+        `Meditation is good for you!`,
         `=== fun; True!`,
         `You've reached Level 99!`,
-        `I've like gardening!`,
+        `I like gardening!`,
         `I like the rain!`,
         `You've reached level 999`
     ];
