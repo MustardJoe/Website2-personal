@@ -11,11 +11,11 @@ class Bio extends Component {
             <div>
                 I am have been coding in one capacity or another since 1996, although 
                 I've recently been taking my coding skills to the next level!  I like 
-                working in JavasScript and Python the best.
+                working with JavasScript and Python the best.
             </div>
             <div>
                 Professionaly, I've been working with technology
-                for a while now, most recently in a hosptial as a BMET (medical 
+                for a while, most recently in a hosptial as a BMET (bio-medical 
                 equipment technician) conducting serviceing and repair of all types
                 of medical devices.   
             </div>
