@@ -5,6 +5,7 @@ class Footer extends Component {
         return /*html*/`
         <div class="footer">
             You've made it to the bottom of the page! Congratulations!
+            © Jon Forney 2019
         </div>
     `;
     }
