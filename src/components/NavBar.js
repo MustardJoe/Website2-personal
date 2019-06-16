@@ -2,6 +2,7 @@ import Component from './Component.js';
 import Bio from './Bio.js';
 import Home from './Home.js';
 import Projects from './Projects.js';
+import Links from './Links.js';
 
 class NavBar extends Component {
     render() {
@@ -20,11 +21,16 @@ class NavBar extends Component {
         const projectsDOM = projects.render();
         dom.appendChild(projectsDOM);
 
+        const links = new Links();
+        const linksDOM = links.render();
+        dom.appendChild(linksDOM);
+
         bio1[0].addEventListener('click', (event) => {
             event.preventDefault();
             homeDOM.classList.remove('hidden');
             bioDOM.classList.add('hidden');
             projectsDOM.classList.add('hidden');
+            linksDOM.classList.add('hidden');
 
         });
 
@@ -33,6 +39,7 @@ class NavBar extends Component {
             bioDOM.classList.remove('hidden');
             homeDOM.classList.add('hidden');
             projectsDOM.classList.add('hidden');
+            linksDOM.classList.add('hidden');
 
         });
 
@@ -41,6 +48,16 @@ class NavBar extends Component {
             projectsDOM.classList.remove('hidden');
             bioDOM.classList.add('hidden');
             homeDOM.classList.add('hidden');
+            linksDOM.classList.add('hidden');
+
+        });
+
+        bio1[3].addEventListener('click', (event) => {
+            event.preventDefault();
+            linksDOM.classList.remove('hidden');
+            bioDOM.classList.add('hidden');
+            homeDOM.classList.add('hidden');
+            projectsDOM.classList.add('hidden');
 
         });
 
