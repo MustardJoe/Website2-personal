@@ -34,3 +34,14 @@ a {
 .projects-comp div{
     margin-bottom: 20px;
 }
+
+.img-links {
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+.soc-media img {
+    width: 80px;
+    padding: 10px;
+}
