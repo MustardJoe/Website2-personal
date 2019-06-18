@@ -7,9 +7,9 @@ class Footer extends Component {
             <div>
                 You've made it to the bottom of the page! Congratulations!
             </div>
-            <section>
+            <div>
                 © Jon Forney 2019
-            </section>
+            </div>
         </div>
     `;
     }
