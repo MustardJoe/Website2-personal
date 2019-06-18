@@ -5,8 +5,12 @@ class Links extends Component {
         return /*html*/`
             <div class="hidden soc-media">
                 <div class="img-links">
-                    <img src="./assets/github-grn2.png">
-                    <img src="./assets/linkedin-grn.png">
+                    <a href="https://github.com/MustardJoe" target="blank">
+                        <img src="./assets/github-grn2.png">
+                    </a>
+                    <a href="https://www.linkedin.com/in/jonathan-forney-52431a79/" target="blank">
+                        <img src="./assets/linkedin-grn.png">
+                    </a>
                 </div>
             </div>
     `;
