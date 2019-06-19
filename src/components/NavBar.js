@@ -30,7 +30,7 @@ class NavBar extends Component {
         //     link0: 'homeDOM',
         //     link1: 'bioDOM',
         //     link2: 'projectsDOM',
-        //     linkk3: 'linksDOM',
+        //     link3: 'linksDOM',
         // };
 
         function navBarButtons(navButton) {
