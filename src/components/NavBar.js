@@ -26,76 +26,39 @@ class NavBar extends Component {
         dom.appendChild(linksDOM);
 
         // // use this object to further refactor button event listener calls
-        // const linksObj = {
-        //     link0: 'homeDOM',
-        //     link1: 'bioDOM',
-        //     link2: 'projectsDOM',
-        //     link3: 'linksDOM',
-        // };
+        const linksObj = ['homeDOM', 'bioDOM', 'projectsDOM', 'linksDOM'];
 
         function navBarButtons(navButton) {
-
             event.preventDefault();
             homeDOM.classList.add('hidden');
             bioDOM.classList.add('hidden');
             projectsDOM.classList.add('hidden');
             linksDOM.classList.add('hidden');
             navButton.classList.remove('hidden');
-            
         }
+
+        // linksObj.forEach(dom => {
+        //     console.log(dom[i]);
+        //     // dom.addEventListener('click', () => {
+        //     //     navBarButtons(dom);
+        //     // })
+        // });
 
         bio1[0].addEventListener('click', () => {
             navBarButtons(homeDOM);
         });     
         
-        // bio1[0].addEventListener('click', (event) => {
-        //     event.preventDefault();
-        //     homeDOM.classList.remove('hidden');
-        //     bioDOM.classList.add('hidden');
-        //     projectsDOM.classList.add('hidden');
-        //     console.log(bio1[0].value);
-        //     linksDOM.classList.add('hidden');
-
-        // });
-
         bio1[1].addEventListener('click', () => {
             navBarButtons(bioDOM);
         });
-
-        // bio1[1].addEventListener('click', (event) => {
-        //     event.preventDefault();
-        //     bioDOM.classList.remove('hidden');
-        //     homeDOM.classList.add('hidden');
-        //     projectsDOM.classList.add('hidden');
-        //     linksDOM.classList.add('hidden');
-
-        // });
 
         bio1[2].addEventListener('click', () => {
             navBarButtons(projectsDOM);
         });
 
-        // bio1[2].addEventListener('click', (event) => {
-        //     event.preventDefault();
-        //     projectsDOM.classList.remove('hidden');
-        //     bioDOM.classList.add('hidden');
-        //     homeDOM.classList.add('hidden');
-        //     linksDOM.classList.add('hidden');
-
-        // });
-
         bio1[3].addEventListener('click', () => {
             navBarButtons(linksDOM);
         });
-
-        // bio1[3].addEventListener('click', (event) => {
-        //     event.preventDefault();
-        //     linksDOM.classList.remove('hidden');
-        //     bioDOM.classList.add('hidden');
-        //     homeDOM.classList.add('hidden');
-        //     projectsDOM.classList.add('hidden');
-
-        // });
 
         return dom;
     }
