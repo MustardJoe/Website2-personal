@@ -13,6 +13,11 @@ class Projects extends Component {
             <div>
                 Check out my <a href="https://github.com/MustardJoe" target="_blank">
                 GitHub</a>to see the rest of my projects.
+            </div>
+            <div class="img-links">
+                <a href="https://github.com/MustardJoe" target="blank">
+                    <img src="./assets/github-grn2.png">
+                </a>
             </div>        
         </section>
     `;
