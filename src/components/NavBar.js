@@ -25,9 +25,6 @@ class NavBar extends Component {
         const linksDOM = links.render();
         dom.appendChild(linksDOM);
 
-        // // use this object to further refactor button event listener calls
-        const linksObj = ['homeDOM', 'bioDOM', 'projectsDOM', 'linksDOM'];
-
         function navBarButtons(navButton) {
             event.preventDefault();
             homeDOM.classList.add('hidden');
@@ -36,14 +33,7 @@ class NavBar extends Component {
             linksDOM.classList.add('hidden');
             navButton.classList.remove('hidden');
         }
-
-        // linksObj.forEach(dom => {
-        //     console.log(dom[i]);
-        //     // dom.addEventListener('click', () => {
-        //     //     navBarButtons(dom);
-        //     // })
-        // });
-
+    
         bio1[0].addEventListener('click', () => {
             navBarButtons(homeDOM);
         });     
