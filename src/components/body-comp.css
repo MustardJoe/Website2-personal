@@ -31,8 +31,12 @@ a {
     margin-bottom: 20px;
 }
 
-.projects-comp div{
+.projects-comp div {
     margin-bottom: 20px;
+}
+
+.projects-comp img {
+    width: 80px;
 }
 
 .img-links {
@@ -43,5 +47,6 @@ a {
 
 .soc-media img {
     width: 80px;
-    padding: 10px;
+    padding: 1
+    0px;
 }
