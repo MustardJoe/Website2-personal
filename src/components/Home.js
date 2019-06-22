@@ -4,6 +4,7 @@ class Home extends Component {
     renderTemplate() {
         return /*html*/`
         <section class="home-comp">
+            <div class="spacer-div"></div>
             <div >
                 Hi I’m Jon!  Welcome to my internet home (away from home). I'm a 
                 software devoloper (he/him pronouns) who lives in Portland, Or.
@@ -14,6 +15,12 @@ class Home extends Component {
             </div>
             <div>
                 Please use this site as a helpful resource to learn about me!
+            </div>
+            <div class="spacer-div"></div>
+            <div class="twitter-tag">
+                <a href="https://twitter.com/GodzillaJonny" target="_blank">
+                    @GodzillaJonny
+                </a>
             </div>
         </section>
     `;
