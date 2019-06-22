@@ -13,7 +13,7 @@ class BodyComp extends Component {
 
     renderTemplate() {
         return /*html*/`
-            <div class="body-comp">Hello World!</div>
+            <div class="body-comp"></div>
     `;
     }
 }
