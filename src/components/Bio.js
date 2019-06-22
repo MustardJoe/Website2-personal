@@ -4,6 +4,7 @@ class Bio extends Component {
     renderTemplate() {
         return /*html*/`
         <secition class="hidden bio-comp">
+            <div class="spacer-div"></div>
             <div>
                 Hi I’m Jon!  Here’s a brief introduction to who I am:
             </div>
