@@ -54,8 +54,8 @@ class NavBar extends Component {
     }
     renderTemplate() {
         return /*html*/`
-            <div class="nav-bar">
-                <ul>
+            <div class="nav-bar-div">
+                <ul class="nav-bar">
                     <li>
                         <a class="bio1" href="./" value="home">Home</a>
                     </li> 
