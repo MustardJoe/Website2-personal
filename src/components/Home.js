@@ -10,6 +10,11 @@ class Home extends Component {
                 software devoloper (he/him pronouns) who lives in Portland, Or.
             </div>
             <div>
+                I was around for the dawn of the internet (jk, but not really :-) <-- see, i remember when this is what a smiley face emoji lookied like!) As a youth 
+                I wrote several Geocities pages.  In fact, I have have been coding since 
+                1996. Recently, I've been taking my coding skills to the next level!
+            </div>
+            <div>
                 I love playing music, and I play several instruments. My 3rd favorite
                 movie is the original 1954 Godzilla.  Also, I grew up in Alaska.
             </div>
