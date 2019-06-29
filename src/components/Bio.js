@@ -9,7 +9,7 @@ class Bio extends Component {
                 Hi I’m Jon!  Here’s a brief introduction to who I am:
             </div>
             <div>
-                I was around for the dawn of the internet.  I began coding at
+                I was around for the dawn of the internet (jk).  I began coding at
                 a relatively young age, and as a youth I wrote several Geocities pages.
                 In fact, I have have been coding since 1996. Recently, I've been taking my 
                 coding skills to the next level!  I like working with JavasScript and 
