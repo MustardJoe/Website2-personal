@@ -6,23 +6,23 @@ class Bio extends Component {
         <secition class="hidden bio-comp">
             <div class="spacer-div"></div>
             <div>
-                Hi I’m Jon!  Here’s a brief introduction to who I am:
+                Hi I’m Jon!  Please feel free to learn about me(!):
             </div>
             <div>
-                I was around for the dawn of the internet (jk).  I began coding at
-                a relatively young age, and as a youth I wrote several Geocities pages.
-                In fact, I have have been coding since 1996. Recently, I've been taking my 
-                coding skills to the next level!  I like working with JavasScript and 
-                Python the best.
+                The spaced we inhabit reveal a lot about ourselves.  These are the spaces where I've worked
+            </div>
+            <div id="hospital-bench">
+                <img src="./assets/hospital_bench0.jpg" alt="BMET work bench covered in wrenches">
+                <img src="./assets/hospital_bench1.jpg" alt="Biomedical equipment techinician work bench">
+            </div>
+            <div>
+                I like working with JavasScript and Python the best.
             </div>
             <div>
                 Before transitioning into software, I spent many years working with a 
-                technical focus on hardware, most recently in a hosptial as a BMET 
-                (bio-medical equipment technician) conducting serviceing and repair of all 
-                types of medical devices, in laboratory and field settings.   
-            </div>
-            <div>
-                I am especialy interested in back-end and DevOps.
+                technical focus on hardware.  As a BioMedical Equipment Technician (BMET) 
+                I worked a hosptial conducting serviceing and repair of all types of medical 
+                devices.   
             </div>
         </secition>
     `;
