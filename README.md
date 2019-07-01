@@ -15,6 +15,11 @@ rgb(0, 51, 23)
 
 have foooter mesg that depends on time of day.
 
+have level up system and some animations (keyframes?)
+
+6/2919 
+    working on getting modal set up with past jobs bench pics in bio section
+
 6/8/2019
     making new goal to work on this project AT LEAST once every week, ideally more, but certainly not less.
 
