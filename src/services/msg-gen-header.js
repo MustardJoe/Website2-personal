@@ -1,5 +1,5 @@
 function randMsgHead() {
-    const selectNumbDec = Math.random() * 18;
+    const selectNumbDec = Math.random() * 19;
     const wholeRandNumb = Math.floor(selectNumbDec);
     
     const headerMsgs = [
@@ -17,6 +17,7 @@ function randMsgHead() {
         `Meditation is good for you!`,
         `=== fun; True!`,
         `You've reached Level 99!`,
+        `Alternative Transportation Enthusist`,
         `I like gardening!`,
         `I like the rain!`,
         `Thanks for visiting!`,
