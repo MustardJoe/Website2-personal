@@ -1,10 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Exo+2:800&display=swap');
 
+html {
+    height: 100%;
+    min-height: 100%;
+}
+
 body {
     font-family: 'Nunito', sans-serif;
     background-color: rgb(0, 51, 23);
     background-color: #551A8B;
+    background-color: black;
+    background-image: linear-gradient(to bottom, #9640e7, rgb(99, 33, 161), #551A8B, #3d1364);
+    background-repeat: no-repeat;
+
     color: #85EF47;
     display: flex;
     justify-content: center;
