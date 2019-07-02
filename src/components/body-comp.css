@@ -23,6 +23,13 @@ a {
     text-decoration: none;
 }
 
+.home-comp {
+    padding-left: 12px;
+    animation-name: maybe;
+    animation-iteration-count: 1;
+    animation-duration: 2.3s;
+}
+
 .home-comp div {
     margin-bottom: 20px;
 }
