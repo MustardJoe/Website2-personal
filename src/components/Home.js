@@ -10,13 +10,11 @@ class Home extends Component {
                 software devoloper (he/him pronouns) who lives in Portland, Or.
             </div>
             <div>
-                I was around for the dawn of the internet (jk, but not really :-) <-- see,
-                 i remember when this is what a smiley face emoji lookied like!) As a youth 
+                I was around for the dawn of the internet (jk, but not really :-) As a youth 
                 I wrote several Geocities pages.  In fact, I have have been coding since 
                 1996. Recently, I've been taking my coding skills to the next level!
                 make website a game where you level up, using something similar to star bbs.
                 track experience and update avatar and minor style or decoration changes.
-                css gradient
             </div>
             <div>
                 I love playing music, and I play several instruments. My 3rd favorite
@@ -25,7 +23,6 @@ class Home extends Component {
             <div>
                 Please use this site as a helpful resource to learn about me!
             </div>
-            <div class="spacer-div"></div>
             <div class="twitter-tag">
                 <a href="https://twitter.com/GodzillaJonny" target="_blank">
                     @GodzillaJonny
