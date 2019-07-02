@@ -17,7 +17,7 @@ function randMsgHead() {
         `Meditation is good for you!`,
         `=== fun; True!`,
         `You've reached Level 99!`,
-        `Alternative Transportation Enthusist`,
+        `JavaScript is my friend`,
         `I like gardening!`,
         `I like the rain!`,
         `Thanks for visiting!`,
