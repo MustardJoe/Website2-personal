@@ -1,6 +1,18 @@
 import Component from './Component.js';
 
 class Footer extends Component {
+    // render() {
+    //     const dom = this.renderDOM();
+       
+    //     let exp = 0;
+    //     window.onload(() => {
+    //         exp = exp + 5;
+    //         console.log(exp);
+    //         return exp;    
+    //       });
+
+    //     return dom;
+    // }
     renderTemplate() {
         return /*html*/`
         <div class="footer">
