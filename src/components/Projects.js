@@ -14,7 +14,7 @@ class Projects extends Component {
             <div>
                 <a href="https://confident-shirley-560be5.netlify.com/index.html" target="_blank">
                 Jonny's Simpsons Quotes!</a> A project I created that pulls data from a Simpsons API
-                and displays that data as character images and quotes.
+                and displays that data as with a Simpsons-themed presentation style.
             </div>
             <div>
                 Check out my <a href="https://github.com/MustardJoe" target="_blank">
