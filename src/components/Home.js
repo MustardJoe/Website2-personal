@@ -17,7 +17,8 @@ class Home extends Component {
                 track experience and update avatar and minor style or decoration changes.
             </div>
             <div>
-                I love playing music, and I play several instruments. My 3rd favorite
+                I love playing music, and I play several instruments. My favorite book is 'The Republic' 
+                and my 3rd favorite
                 movie is the original 1954 Godzilla.  Also, I grew up in Alaska.
             </div>
             <div>
