@@ -6,9 +6,6 @@ class Bio extends Component {
         <secition class="hidden bio-comp">
             <div class="spacer-div"></div>
             <div>
-                Hi I’m Jon!  Please feel free to learn about me(!):
-            </div>
-            <div>
                 The spaced we inhabit reveal a lot about ourselves.  These are the spaces where I've worked
             </div>
             <div id="hospital-bench">
