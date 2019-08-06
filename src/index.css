@@ -71,6 +71,7 @@ main {
 .footer {
     background-color: #207DFF;
     color: #00BD56;
+    font-size: 1.1em;
     position: absolute;
     bottom: 0;
     height: 60px;
