@@ -10,11 +10,10 @@ class Home extends Component {
                 software devoloper (he/him pronouns) who lives in Portland, Or.
             </div>
             <div>
-                I was around for the dawn of the internet (jk, but not really :-) As a youth 
-                I wrote several Geocities pages.  In fact, I have have been coding since 
-                1996. Recently, I've been taking my coding skills to the next level!
-                make website a game where you level up, using something similar to star bbs.
-                track experience and update avatar and minor style or decoration changes.
+            I would describe myself as an intelligent, empathetic and diligent individual
+            with a quiet but quirky sense of humor, and a passion for continuous learning.
+            The most important thing to me in a job is being part of a great fitting team 
+            that works well together and supports each other.
             </div>
             <div>
                 I love playing music, and I play several instruments. My favorite book is 'The Republic' 
