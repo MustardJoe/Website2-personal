@@ -7,10 +7,9 @@ class Projects extends Component {
             <div class="spacer-div"></div>
             <div>
                 <a href="https://happy-lovelace-66fb73.netlify.com/auth.html" target="blank">
-                I Believe In URL</a> Is a URL shortening service (similar to bit.ly) that makes use
-                of MongoDB to take a long URL provided by a user and return a shorter 
-                alternative for use in places like Twitter or elsewhere when typing 
-                out an enourmouse link is unwieldly/not possible. 
+                I Believe In URL</a> A URL shortening app built with javascript, 
+                using Node, Express and MongoDB.  Provides a shorter URL alternative
+                when one is needed.
             </div>
             <div>
                 <a href="https://moddo.netlify.com/" target="_blank">Moddo: Advice and 
@@ -24,8 +23,8 @@ class Projects extends Component {
                 and displays that data as with a Simpsons-themed presentation style.
             </div>
             <div>
-                Check out my <a href="https://github.com/MustardJoe" target="_blank">
-                GitHub</a>to see the rest of my projects.
+                Please consider viewing my <a href="https://github.com/MustardJoe" target="_blank">
+                GitHub</a>to see more!
             </div>
             <div class="img-links">
                 <a href="https://github.com/MustardJoe" target="blank">

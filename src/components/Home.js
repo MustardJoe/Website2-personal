@@ -6,7 +6,7 @@ class Home extends Component {
         <section class="home-comp">
             <div class="spacer-div"></div>
             <div >
-                Hi I’m Jon!  Welcome to my internet home (away from home). I'm a 
+                Welcome to my internet home (away from home). I'm a 
                 software devoloper (he/him pronouns) who lives in Portland, Or.
             </div>
             <div>

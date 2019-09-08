@@ -5,6 +5,10 @@ li {
     margin-right: 30px;
 }
 
+.nav-bar-div {
+    margin-top: 16px;
+}
+
 .nav-bar {
     display: inline;
 }
