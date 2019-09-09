@@ -15,7 +15,7 @@ function randMsgHead() {
         'Who ate all the bacon?',
         `I recently took up yoga!`,
         `Meditation is good for you!`,
-        `=== fun; True!`,
+        `=== fun; return True!`,
         `You've reached Level 99!`,
         `JavaScript is my friend`,
         `I like gardening!`,

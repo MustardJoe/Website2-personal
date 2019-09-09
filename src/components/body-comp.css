@@ -32,10 +32,17 @@ a {
     animation-name: maybe;
     animation-iteration-count: 1;
     animation-duration: 2.3s;
+    margin-top: 0px;
 }
 
 .home-comp div {
     margin-bottom: 20px;
+}
+
+.home-comp h4 {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    text-decoration: underline;
 }
 
 .bio-comp div {
