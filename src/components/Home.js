@@ -5,7 +5,7 @@ class Home extends Component {
         return /*html*/`
         <section class="home-comp">
             <div class="empty-div"></div>
-            <div class="empty-div"></div>
+            <div class="spacer-div"></div>
             <div >
                 Welcome to my internet home (away from home). I'm a 
                 fullstack software devoloper (he/him pronouns) living
