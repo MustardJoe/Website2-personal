@@ -45,13 +45,22 @@ a {
     text-decoration: underline;
 }
 
+.bio-comp {
+    padding-left: 12px;
+}
+
 .bio-comp div {
     margin-bottom: 20px;
+    padding-left: 12px;
 }
 
 .bio-comp img {
     width: 200px;
     border-radius: 8px;
+}
+
+.projects-comp {
+    padding-left: 12px;
 }
 
 .projects-comp div {
@@ -62,14 +71,18 @@ a {
     width: 80px;
 }
 
-.img-links {
-    margin-top: 35px;
-    display: flex;
-    justify-content: center;
+.soc-media {
+    padding-left: 12px;
 }
 
 .soc-media img {
     width: 80px;
     padding: 1
     0px;
+}
+
+.img-links {
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
 }
