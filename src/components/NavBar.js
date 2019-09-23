@@ -39,11 +39,11 @@ class NavBar extends Component {
         });     
         
         bio1[1].addEventListener('click', () => {
-            navBarButtons(bioDOM);
+            navBarButtons(projectsDOM);
         });
 
         bio1[2].addEventListener('click', () => {
-            navBarButtons(projectsDOM);
+            navBarButtons(bioDOM);
         });
 
         bio1[3].addEventListener('click', () => {
@@ -60,10 +60,10 @@ class NavBar extends Component {
                         <a class="bio1" href="./" value="home">Home</a>
                     </li> 
                     <li>
-                        <a class="bio1" href="./">Bio</a>
+                        <a class="bio1" href="./">Projects</a>
                     </li>
                     <li>
-                        <a class="bio1" href="./">Projects</a>
+                        <a class="bio1" href="./">Bio</a>
                     </li>
                     <li>
                         <a class="bio1" href="./">Links/Refs</a>
