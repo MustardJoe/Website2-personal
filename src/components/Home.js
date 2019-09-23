@@ -5,15 +5,11 @@ class Home extends Component {
         return /*html*/`
         <section class="home-comp">
             <div class="empty-div"></div>
+            <div class="empty-div"></div>
             <div >
                 Welcome to my internet home (away from home). I'm a 
                 fullstack software devoloper (he/him pronouns) living
                 in Portland, Or.
-            </div>
-            <div>
-            <h4 class="homeH4">Skills/Technologies</h4>
-            JavaScript, HTML, CSS, Node.JS, Express, React, Redux, MongoDB, Mongoose,
-            Firebase, Git, Github, Jest, Heroku, Netlify.
             </div>
 
             <div>

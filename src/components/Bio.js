@@ -6,11 +6,9 @@ class Bio extends Component {
         <secition class="hidden bio-comp">
             <div class="spacer-div"></div>
             <div>
-                The spaced we inhabit reveal a lot about ourselves.  These are the spaces where I've worked
-            </div>
-            <div id="hospital-bench">
-                <img src="./assets/hospital_bench0.jpg" alt="BMET work bench covered in wrenches">
-                <img src="./assets/hospital_bench1.jpg" alt="Biomedical equipment techinician work bench">
+                <h4 class="homeH4">Skills/Technologies I enjoy using</h4>
+                JavaScript, HTML, CSS, Node.JS, Express, React, Redux, MongoDB, Mongoose,
+                Firebase, Git, Github, Jest, Heroku, Netlify.
             </div>
           
             <div>
@@ -19,6 +17,12 @@ class Bio extends Component {
                 I worked a hosptial conducting serviceing and repair of all types of medical 
                 devices.   
             </div>
+
+            <div id="hospital-bench">
+                <img src="./assets/hospital_bench0.jpg" alt="BMET work bench covered in wrenches">
+                <img src="./assets/hospital_bench1.jpg" alt="Biomedical equipment techinician work bench">
+            </div>
+
         </secition>
     `;
     }

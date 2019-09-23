@@ -24,13 +24,9 @@ class Projects extends Component {
             </div>
             <div>
                 Please consider viewing my <a href="https://github.com/MustardJoe" target="_blank">
-                GitHub</a>to see more!
+                GitHub</a> to see more!
             </div>
-            <div class="img-links">
-                <a href="https://github.com/MustardJoe" target="blank">
-                    <img src="./assets/github-grn2.png" alt="GitHub icon">
-                </a>
-            </div>        
+ 
         </section>
     `;
     }
