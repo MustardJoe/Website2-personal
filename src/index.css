@@ -63,10 +63,14 @@ main {
 .body-comp {
     margin: 5px;
     padding-top: 0px;
-    width: 700px;
+    width: 800px;
     height: 580px;
     font-size: 1.2em;
+    overflow: scroll;
+    overflow: -moz-scrollbars-none;
 }
+
+.body-comp::-webkit-scrollbar { width: 0 !important }
 
 .footer {
     background-color: #207DFF;

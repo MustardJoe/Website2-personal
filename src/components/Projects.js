@@ -6,18 +6,23 @@ class Projects extends Component {
         <section class="hidden projects-comp">
             <div class="spacer-div"></div>
             <div>
+                <img src="../../assets/joliliah.png">
                 <a href="https://happy-lovelace-66fb73.netlify.com/auth.html" target="blank">
                 I Believe In URL</a> A URL shortening app built with javascript, 
                 using Node, Express and MongoDB.  Provides a shorter URL alternative
                 when one is needed.
             </div>
+            <div class="spacer-div"></div>
             <div>
+                <img src="../../assets/moddo.png">
                 <a href="https://moddo.netlify.com/" target="_blank">Moddo: Advice and 
-                Inspire</a> Moddo is a project I worked on as part of an exercise
+                Inspire</a> Moddo is a fullstack app build as an exercise
                 in using Firebase database system.  It gives you a bit of random 
-                adivce and then has a todo list app.
+                adivce which inspires your to complete the paired to do list.
             </div>
+            <div class="spacer-div"></div>
             <div>
+                <img src="../../assets/simpsons.png">
                 <a href="https://confident-shirley-560be5.netlify.com/index.html" target="_blank">
                 Jonny's Simpsons Quotes!</a> A project I created that pulls data from a Simpsons API
                 and displays that data as with a Simpsons-themed presentation style.
@@ -26,6 +31,7 @@ class Projects extends Component {
                 Please consider viewing my <a href="https://github.com/MustardJoe" target="_blank">
                 GitHub</a> to see more!
             </div>
+            <div class="spacer-div"></div><div class="spacer-div"></div>
  
         </section>
     `;

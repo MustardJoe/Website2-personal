@@ -61,6 +61,8 @@ a {
 
 .projects-comp {
     padding-left: 12px;
+    // overflow: scroll;
+    // overflow-y: auto
 }
 
 .projects-comp div {
@@ -68,7 +70,9 @@ a {
 }
 
 .projects-comp img {
-    width: 80px;
+    width: 240px;
+    border-radius: 8px;
+    float: left;
 }
 
 .soc-media {
