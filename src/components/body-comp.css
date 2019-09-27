@@ -61,7 +61,8 @@ a {
 
 .projects-comp {
     padding-left: 12px;
-    // overflow: scroll;
+    height: 500px;
+    overflow: scroll;
     // overflow-y: auto
 }
 
