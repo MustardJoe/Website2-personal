@@ -76,6 +76,11 @@ a {
     float: left;
 }
 
+.projects-comp .proj-text {
+    margin-left: 13em;
+    padding: 12px;
+}
+
 .soc-media {
     padding-left: 12px;
 }
