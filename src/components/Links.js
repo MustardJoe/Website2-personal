@@ -15,8 +15,11 @@ class Links extends Component {
                         <img src="./assets/github-grn2.png" alt="GitHub icon">
                     </a>
                     <a href="https://www.linkedin.com/in/jonathan-forney-52431a79/" target="blank">
-                        <img src="./assets/linkedin-grn.png" alt="linked in icon">
+                        <img src="./assets/linkedin2.png" alt="linked in icon">
                     </a>
+                    <a href="https://twitter.com/GodzillaJonny" target="blank">
+                    <img src="./assets/twittergood.png" alt="linked in icon">
+                </a>
                 </div>
             </div>
     `;
