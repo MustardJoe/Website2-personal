@@ -12,6 +12,8 @@ class Bio extends Component {
             </div>
           
             <div>
+                I’ve spent the last 12+ years solving problems by using technical knowledge 
+                and expertise.
                 Before transitioning into software, I spent many years working with a 
                 technical focus on hardware.  As a BioMedical Equipment Technician (BMET) 
                 I worked a hosptial conducting serviceing and repair of all types of medical 
