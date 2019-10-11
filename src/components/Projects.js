@@ -19,7 +19,7 @@ class Projects extends Component {
                 <img src="../../assets/moddo.png">
                 <p class="proj-text">
                     <a href="https://moddo.netlify.com/" target="_blank">Moddo: Advice and 
-                    Inspire</a> Moddo is a fullstack app build as an exercise
+                    Inspire</a> Moddo is a fullstack app built as an exercise
                     in using Firebase database system.  It gives you a bit of random 
                     adivce which inspires your to complete the paired to do list.
                 </p>
