@@ -3,7 +3,7 @@ function randMsgHead() {
     const wholeRandNumb = Math.floor(selectNumbDec);
     
     const headerMsgs = [
-        'Welcome to my Page',
+        `JavaScript is my friend`,
         'I hope you find this site usefull',
         `Here's Jonny (in a good way)!`,
         `Have a Great Day!`,
