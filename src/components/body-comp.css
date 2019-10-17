@@ -35,6 +35,11 @@ a {
     margin-top: 0px;
 }
 
+.home-comp img {
+    height: 58vh;
+    float: right;
+}
+
 .home-comp div {
     margin-bottom: 20px;
 }

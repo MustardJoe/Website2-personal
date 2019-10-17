@@ -1,12 +1,16 @@
 import Component from './Component.js';
 
+
 class Home extends Component {
     renderTemplate() {
         return /*html*/`
         <section class="home-comp">
+            <div class="jonvatar">
+                <img src="./assets/jonvatar.png">
+            </div>
             <div class="empty-div"></div>
             <div class="spacer-div"></div>
-            <div >
+            <div>
                 Welcome to my internet home (away from home). I'm a 
                 fullstack software devoloper (he/him pronouns) living
                 in Portland, Or.
