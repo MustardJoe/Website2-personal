@@ -12,7 +12,7 @@ function randMsgHead() {
         `Let's use our powers for good!`,
         `Great Job!`,
         'You should consider hiring me!',
-        'Who ate all the bacon?',
+        'Aspiring JavaScript Wizard',
         `I recently took up yoga!`,
         `Meditation is good for you!`,
         `=== fun; return True!`,
