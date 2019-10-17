@@ -17,7 +17,15 @@ class Links extends Component {
                     </a>
                     <a href="https://twitter.com/GodzillaJonny" class="img-links" target="blank">
                     <img src="./assets/twittergood.png" alt="linked in icon">
-                </a>
+                    </a>
+                </div>
+                <div class="spacer-div"></div>
+                <div class="cartoon-ref">
+                    <img src="./assets/jonvatar.png">
+                    <p class="maya-ref">
+                        Cartoon Jon avatar by <a href="https://www.mayacastillo.com/" target="blank">
+                        Maya Castillo</a>
+                    </p>
                 </div>
             </div>
     `;
