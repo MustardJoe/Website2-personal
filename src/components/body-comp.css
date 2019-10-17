@@ -28,7 +28,8 @@ a {
 }
 
 .home-comp {
-    padding-left: 12px;
+    padding-left: 4vw;
+    padding-top: 1vh;
     animation-name: maybe;
     animation-iteration-count: 1;
     animation-duration: 2.3s;
@@ -104,4 +105,13 @@ a {
 
 .img-links {
     margin: 8px;
+}
+
+.cartoon-ref {
+    justify-content: center;
+}
+.maya-ref {
+    display: inline;
+    padding-top: 0;
+    padding-bottom: 1vh;
 }
