@@ -7,8 +7,8 @@ class Bio extends Component {
             <div class="spacer-div"></div>
             <div>
                 <h4 class="homeH4">Skills/Technologies I enjoy using</h4>
-                JavaScript, HTML, CSS, Node.JS, Express, React, Redux, MongoDB, Mongoose,
-                Firebase, Git, Github, Jest, Heroku, Netlify.
+                JavaScript, Node.JS, Express, React, Redux, MongoDB, Mongoose,
+                HTML, CSS, Firebase, Git, Github, Jest, Heroku, Netlify, TDD
             </div>
           
             <div>
@@ -16,7 +16,7 @@ class Bio extends Component {
                 and expertise.
                 Before transitioning into software, I spent many years working with a 
                 technical focus on hardware.  As a BioMedical Equipment Technician (BMET) 
-                I worked a hosptial conducting serviceing and repair of all types of medical 
+                I worked a hosptial conducting servicing and repair of all types of medical 
                 devices.   
             </div>
 
