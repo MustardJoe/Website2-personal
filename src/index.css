@@ -29,8 +29,8 @@ main {
 
     z-index: 1000;
     margin-left: 100px;
-    color: #F9FD50;
     color: #85EF47;
+    color: #F9FD50;
     background-color: #00BD56;
     border-top-right-radius: 2em;
     max-width: 825px;
@@ -75,6 +75,8 @@ main {
 .footer {
     background-color: #207DFF;
     color: #00BD56;
+    color: #F9FD50;
+    color: #85EF47;
     font-size: 1.1em;
     position: absolute;
     bottom: 0;
