@@ -64,7 +64,7 @@ main {
     margin: 5px;
     padding-top: 0px;
     width: 820px;
-    height: 580px;
+    height: 80vh;
     font-size: 1.2em;
     // overflow: scroll;
     overflow: -moz-scrollbars-none;
