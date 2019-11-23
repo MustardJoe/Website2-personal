@@ -6,7 +6,7 @@ class Home extends Component {
         return /*html*/`
         <section class="home-comp">
             <div class="jonvatar">
-                <img src="./assets/jonvatar.png">
+                <img src="./assets/jon-maya-avatar-small.png">
             </div>
             <div class="empty-div"></div>
             <div>
