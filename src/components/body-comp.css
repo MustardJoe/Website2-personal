@@ -67,9 +67,9 @@ a {
 
 .projects-comp {
     padding-left: 12px;
-    height: 500px;
+    height: 70vh;
     overflow: scroll;
-    // overflow-y: auto
+    overflow-x: hidden;
 }
 
 .projects-comp div {
