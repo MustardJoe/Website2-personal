@@ -12,12 +12,13 @@ class Bio extends Component {
             </div>
           
             <div>
-                I’ve spent the last 12+ years solving problems by using technical knowledge 
-                and expertise.
+                I’ve spent the last 12+ years solving problems using technical
+                knowledge and expertise.
                 Before transitioning into software, I spent many years working with a 
                 technical focus on hardware.  As a BioMedical Equipment Technician (BMET) 
                 I worked a hosptial conducting servicing and repair of all types of medical 
-                devices.   
+                devices.  Prior to that I spent a decade as a bicycle mechanic, specializing
+                in both repair work and customer service.
             </div>
 
             <div id="hospital-bench">
