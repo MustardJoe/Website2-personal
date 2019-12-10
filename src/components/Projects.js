@@ -6,18 +6,22 @@ class Projects extends Component {
         <section class="hidden projects-comp">
             <div class="spacer-div"></div>
             <div>
-                <img src="../../assets/astroview.png">
+                <a href="https://boring-kepler-b775fe.netlify.com/" target="_blank">
+                    <img src="../../assets/astroview.png">
+                </a>
                 <p class="proj-text">
-                    <a href="https://boring-kepler-b775fe.netlify.com/" target="blank">AstroView</a> A
+                    <a href="https://boring-kepler-b775fe.netlify.com/" target="_blank">AstroView</a> A
                     Front end for the NASA Astronomy Picture of the Day API. Browse decades of awesome,
                     daily astronomy photos. This project was built with React to interface with a REST API.
                 </p>
             </div>
             <div class="spacer-div"></div>
             <div>
-                <img src="../../assets/joliliah.png">
+                <a href="https://happy-lovelace-66fb73.netlify.com/auth.html" target="_blank">
+                    <img src="../../assets/joliliah.png">
+                </a>
                 <p class="proj-text">
-                    <a href="https://happy-lovelace-66fb73.netlify.com/auth.html" target="blank">
+                    <a href="https://happy-lovelace-66fb73.netlify.com/auth.html" target="_blank">
                     I Believe In URL</a> A URL shortening app built with JavaScript, 
                     using Node, Express and MongoDB.  Provides a shorter URL alternative
                     when one is needed.
@@ -25,7 +29,9 @@ class Projects extends Component {
             </div>
             <div class="spacer-div"></div>
             <div>
-                <img src="../../assets/moddo.png">
+                <a href="https://moddo.netlify.com/" target="_blank">
+                    <img src="../../assets/moddo.png">
+                </a>
                 <p class="proj-text">
                     <a href="https://moddo.netlify.com/" target="_blank">Moddo: Advice and 
                     Inspire</a> Moddo is a fullstack app built as an exercise
@@ -35,7 +41,9 @@ class Projects extends Component {
             </div>
             <div class="spacer-div"></div>
             <div>
-                <img src="../../assets/simpsons.png">
+                <a href="https://confident-shirley-560be5.netlify.com/index.html" target="_blank">
+                    <img src="../../assets/simpsons.png">
+                </a>
                 <p class="proj-text">
                     <a href="https://confident-shirley-560be5.netlify.com/index.html" target="_blank">
                     Jonny's Simpsons Quotes!</a> A project I created that pulls data from a Simpsons API
