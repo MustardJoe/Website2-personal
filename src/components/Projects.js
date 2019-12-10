@@ -6,10 +6,19 @@ class Projects extends Component {
         <section class="hidden projects-comp">
             <div class="spacer-div"></div>
             <div>
+                <img src="../../assets/astroview.png">
+                <p class="proj-text">
+                    <a href="https://boring-kepler-b775fe.netlify.com/" target="blank">AstroView</a> A
+                    Front end for the NASA Astronomy Picture of the Day API. Browse decades of awesome,
+                    daily astronomy photos. This project was built with React to interface with a REST API.
+                </p>
+            </div>
+            <div class="spacer-div"></div>
+            <div>
                 <img src="../../assets/joliliah.png">
                 <p class="proj-text">
                     <a href="https://happy-lovelace-66fb73.netlify.com/auth.html" target="blank">
-                    I Believe In URL</a> A URL shortening app built with javascript, 
+                    I Believe In URL</a> A URL shortening app built with JavaScript, 
                     using Node, Express and MongoDB.  Provides a shorter URL alternative
                     when one is needed.
                 </p>
