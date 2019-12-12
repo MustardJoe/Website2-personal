@@ -21,7 +21,7 @@ function randMsgHead() {
         `I like gardening!`,
         `I like the rain!`,
         `Thanks for visiting!`,
-        `Click here for fun!`,
+        `Have a Great Day!`,
         `You've reached level 999`
     ];
     // const randnumb = randMsgHead();
